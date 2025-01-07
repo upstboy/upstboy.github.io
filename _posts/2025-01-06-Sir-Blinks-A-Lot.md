@@ -18,8 +18,6 @@ One big challenge was getting those movements just right, so I used PID control 
 
 This project was a great way to use AI to add creativity to tech. I loved seeing my ideas come to life and I am excited to create more projects in the future!
 
-**Demo:**
-https://www.youtube.com/watch?v=B9AMRwF5B-0
+[**Demo**](https://www.youtube.com/watch?v=B9AMRwF5B-0)
 
-**Source code:** 
-https://github.com/upstboy/robot_character
+[**Source code**](https://github.com/upstboy/robot_character)
