@@ -18,6 +18,8 @@ One big challenge was getting those movements just right, so I used PID control 
 
 This project was a great way to use AI to add creativity to tech. I loved seeing my ideas come to life and I am excited to create more projects in the future!
 
+![alt text](/assets/images/SirBlinksALotProfile.jpeg)
+
 [![Watch the Demo](https://img.shields.io/badge/Watch-Demo-red?logo=youtube&style=for-the-badge)](https://www.youtube.com/watch?v=B9AMRwF5B-0)
 
 [![View Source Code](https://img.shields.io/badge/View-Source_Code-blue?logo=github&style=for-the-badge)](https://github.com/upstboy/robot_character)
