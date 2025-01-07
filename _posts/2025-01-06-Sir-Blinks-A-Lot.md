@@ -21,3 +21,5 @@ This project was a great way to use AI to add creativity to tech. I loved seeing
 [**Demo**](https://www.youtube.com/watch?v=B9AMRwF5B-0)
 
 [**Source code**](https://github.com/upstboy/robot_character)
+
+[**OhBot kit**](https://www.ohbot.co.uk/store/p57/Ohbot_2.2_Kit.html)
