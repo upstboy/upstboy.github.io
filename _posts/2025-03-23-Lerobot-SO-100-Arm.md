@@ -7,7 +7,8 @@ Hello everyone! Today I'm excited to share my experience with building the [LeRo
 ## Demo video
 Here is a demo of the arm picking up a bottle of acrylic color and moving it!
 
-https://youtu.be/WWh0zzEwcjU
+[DEMO VIDEO](https://youtu.be/WWh0zzEwcjU)
+
 ![](/assets/images/So100DemoVideoScreenshot.png)
 
 ## Initial Build Process
